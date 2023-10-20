@@ -46,6 +46,7 @@ EazyDraft is a streamlined document editing and collaboration tool designed to e
 8. **Testing and Quality Assurance**: Develop and execute test cases to ensure a stable and bug-free application.
 
 ## Screenshot
+![Screenshot 2023-10-20 194214](https://github.com/abhi-swami/easyDraft_assignment/assets/110050855/ce0113dd-bc6d-4029-98ee-fb6832a639af)
 
 <h2 align="center">Getting Started</h2>
 
