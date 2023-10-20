@@ -1,9 +1,11 @@
 <h1 align="center">📝 EazyDraft PROJECT 📝</h1>
-<!-- ### Frontend Deployed URL 👉 [Click here](https://voice2textapp.vercel.app/)-->
-<div align="justify" width="80%">
+<!-- -->
+<h3 align="justify" width="80%">
 
 EazyDraft is a streamlined document editing and collaboration tool designed to enhance productivity and code quality. This project aims to optimize its main function, which likely involves processing or editing documents. In this process, we'll address bugs, improve code design, enhance readability, and eliminate bad coding practices to make the application more efficient and user-friendly. Once these improvements are made, the codebase will be organized and documented thoroughly. The final result will be a clean, efficient, and well-structured codebase, hosted in a Git repository for version control and future development. This project will empower users to work more effectively on their documents while maintaining code quality. 
-</div>
+
+### Frontend Deployed URL 👉 [Click here](https://easy-draft-assignment.vercel.app)
+</h3>
 <h2 align="center">Technologies Used</h2>
 
 <p align="center">
